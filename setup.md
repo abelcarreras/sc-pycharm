@@ -7,10 +7,14 @@ root: ..
 
 ## Overview
 
-This lesson is designed to be run on a personal computer.
-All of the software and data used in this lesson are freely available online,
-and instructions on how to obtain them are provided below.
+This is the overview of the lesson 
 
+## Install Python
+
+In this lesson, we will be using Python 3 
+we recommend installing [Anaconda][anaconda-website],
+on The Carpentries [template website for workshops][anaconda-instructions]
+and in [Anaconda documentation][anaconda-install].
 
 [anaconda-install]: https://docs.anaconda.com/anaconda/install
 [anaconda-instructions]: https://carpentries.github.io/workshop-template/#python

@@ -4,13 +4,20 @@ root: .
 permalink: index.html
 ---
 
-The best way to learn how to program is to do something useful,
-so this introduction to Python is built around a common scientific task:
-**data analysis**.
+The best way to learn how to program is with a task: **the example**.
 
-### Arthritis Inflammation
-We are studying **inflammation in patients** who have been given a new treatment for arthritis, and
-need to analyze the first dozen data sets of their daily inflammation. The data sets are stored in (CSV) format:
+### Example introduction
+this is an example introduction
 
-- each row holds information for a single patient,
-- columns represent successive days.
+> ## Prerequisites
+>
+> You need to understand the concepts of **files** and **directories** and how to start a Python
+> interpreter before tackling this lesson. This lesson sometimes references Jupyter
+> Notebook although you can use any Python interpreter mentioned in the [Setup](setup/).
+>
+> The commands in this lesson pertain to **Python 3**.
+{: .prereq}
+
+### Getting Started
+To get started, follow the directions on the "[Setup](setup/)" page to download data
+and install a Python interpreter.
