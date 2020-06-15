@@ -7,7 +7,7 @@ permalink: index.html
 The best way to learn how to program is with a task: **the example**.
 
 ### Example introduction
-this is an example introduction
+This is an example introduction introduction
 
 > ## Prerequisites
 >
