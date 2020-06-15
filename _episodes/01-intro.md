@@ -1,12 +1,15 @@
 ---
-title: test lesson
+title: Introduction to PyCharm
 teaching: 21
 exercises: 15
 questions:
-- "What basic data types can I work with in Python?"
+- "What is an IDE?"
+- "What is a PyCharm Project?"
 ---
 
 ## Variables
+
+![](/fig/project_start.gif)
 
 Any Python interpreter can be used as a calculator:
 ~~~
