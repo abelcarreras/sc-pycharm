@@ -7,15 +7,11 @@ root: ..
 
 ## Overview
 
-This is the overview of the lesson 
+This is the overview of the lesson
 
-## Install Python
+## Install PyCharm
 
-In this lesson, we will be using Python 3 
-we recommend installing [Anaconda][anaconda-website],
-on The Carpentries [template website for workshops][anaconda-instructions]
-and in [Anaconda documentation][anaconda-install].
+In this lesson, we will be using PyCharm (community edition),
+You can download it from [JetBrains website][pycharm-download],.
 
-[anaconda-install]: https://docs.anaconda.com/anaconda/install
-[anaconda-instructions]: https://carpentries.github.io/workshop-template/#python
-[anaconda-website]: https://www.anaconda.com/
+[pycharm-download]: https://www.jetbrains.com/pycharm/download/#section=mac
